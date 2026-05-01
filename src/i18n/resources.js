@@ -1,0 +1,126 @@
+export const resources = {
+  ar: {
+    translation: {
+      appName: "معدلي Mo3adali",
+      appDescription:
+        "أداة بسيطة لحساب المعدل والمجموع المرجح حسب شعبة البكالوريا المغربية وحالة المترشح (حر أو مدرسي).",
+      appTaglineBac: "هذا التطبيق يسمح لك بحساب المعدل لشعب البكالوريا المغربية.",
+      language: "اللغة",
+      statusLabel: "الحالة",
+      filiereLabel: "الشعبة",
+      subjectList: "المواد والمعاملات",
+      notesInputHint: "أدخل نقطة لكل مادة بين 0 و 20 (يمكن استخدام عشري).",
+      coefShort: "معامل {{n}}",
+      calculate: "احسب",
+      reset: "إعادة الضبط",
+      fillSample: "تعبئة تجريبية",
+      resultTitle: "النتائج",
+      total: "المجموع المرجح",
+      average: "المعدل",
+      passMark: "عتبة النجاح",
+      finalState: "القرار",
+      pass: "ناجح",
+      fail: "راسب",
+      status: {
+        libre: "حر",
+        scolaire: "مدرسي",
+      },
+      errors: {
+        requiredStatus: "المرجو اختيار الحالة.",
+        requiredFiliere: "المرجو اختيار الشعبة.",
+        noSubjects: "لم تُحمَّل قائمة المواد. اختر الشعبة من القائمة ثم أدخل النقط.",
+        invalidNote: "المرجو إدخال نقط صحيحة بين 0 و 20 لجميع المواد.",
+      },
+      footer: {
+        rightsReserved: "© {{year}} {{brand}} — جميع الحقوق محفوظة",
+        followUs: "تابعنا",
+        facebook: "فيسبوك",
+        instagram: "إنستغرام",
+      },
+    },
+  },
+  fr: {
+    translation: {
+      appName: "Mo3adali",
+      appDescription:
+        "Calculez rapidement votre moyenne et votre total pondéré selon la filière du baccalauréat marocain et votre statut (libre ou scolaire).",
+      appTaglineBac:
+        "Cette application vous permet de calculer la moyenne pour les filières du baccalauréat marocain.",
+      language: "Langue",
+      statusLabel: "Statut",
+      filiereLabel: "Filière",
+      subjectList: "Matières et coefficients",
+      notesInputHint: "Saisissez une note entre 0 et 20 pour chaque matière (décimales autorisées).",
+      coefShort: "coef. {{n}}",
+      calculate: "Calculer",
+      reset: "Réinitialiser",
+      fillSample: "Remplir (test)",
+      resultTitle: "Résultats",
+      total: "Total pondéré",
+      average: "Moyenne",
+      passMark: "Seuil de réussite",
+      finalState: "Décision",
+      pass: "Admis",
+      fail: "Non admis",
+      status: {
+        libre: "Libre",
+        scolaire: "Scolaire",
+      },
+      errors: {
+        requiredStatus: "Veuillez choisir un statut.",
+        requiredFiliere: "Veuillez choisir une filière.",
+        noSubjects:
+          "La liste des matières ne s’est pas chargée. Choisissez une filière puis saisissez les notes.",
+        invalidNote: "Veuillez saisir des notes valides entre 0 et 20 pour toutes les matières.",
+      },
+      footer: {
+        rightsReserved: "© {{year}} {{brand}} — Tous droits réservés",
+        followUs: "Suivez-nous",
+        facebook: "Facebook",
+        instagram: "Instagram",
+      },
+    },
+  },
+  en: {
+    translation: {
+      appName: "Mo3adali",
+      appDescription:
+        "Quickly compute your weighted total and average for Moroccan baccalaureate branches, for free or school-track candidates.",
+      appTaglineBac:
+        "This app helps you calculate averages for Moroccan baccalaureate (bac) branches.",
+      language: "Language",
+      statusLabel: "Status",
+      filiereLabel: "Branch",
+      subjectList: "Subjects and coefficients",
+      notesInputHint: "Enter a score from 0 to 20 for each subject (decimals allowed).",
+      coefShort: "coef. {{n}}",
+      calculate: "Calculate",
+      reset: "Reset",
+      fillSample: "Fill sample",
+      resultTitle: "Results",
+      total: "Weighted total",
+      average: "Average",
+      passMark: "Pass mark",
+      finalState: "Decision",
+      pass: "Pass",
+      fail: "Fail",
+      status: {
+        libre: "Libre",
+        scolaire: "Scolaire",
+      },
+      errors: {
+        requiredStatus: "Please select a status.",
+        requiredFiliere: "Please select a branch.",
+        noSubjects:
+          "Subjects did not load. Pick a branch from the list, then enter your scores.",
+        invalidNote: "Please enter valid scores between 0 and 20 for every subject.",
+      },
+      footer: {
+        rightsReserved: "© {{year}} {{brand}} — All rights reserved",
+        followUs: "Follow us",
+        facebook: "Facebook",
+        instagram: "Instagram",
+      },
+    },
+  },
+};

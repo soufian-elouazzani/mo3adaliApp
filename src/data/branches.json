@@ -1,0 +1,174 @@
+[
+  {
+    "id": "sciences-physiques-chimie",
+    "nameAr": "مسلك العلوم الفيزيائية والكيمياء",
+    "nameFr": "Branche Sciences Physiques et Chimiques",
+    "nameEn": "Physical and Chemical Sciences",
+    "subjects": [
+      {
+        "slug": "mathematiques",
+        "nameAr": "الرياضيات",
+        "nameFr": "Mathématiques",
+        "nameEn": "Mathematics",
+        "coefficient": 7
+      },
+      {
+        "slug": "physique-chimie",
+        "nameAr": "الفيزياء والكيمياء",
+        "nameFr": "Physique et Chimie",
+        "nameEn": "Physics and Chemistry",
+        "coefficient": 7
+      },
+      {
+        "slug": "svt",
+        "nameAr": "علوم الحياة والأرض",
+        "nameFr": "Sciences de la Vie et de la Terre",
+        "nameEn": "Life and Earth Sciences",
+        "coefficient": 5
+      },
+      {
+        "slug": "philosophie",
+        "nameAr": "الفلسفة",
+        "nameFr": "Philosophie",
+        "nameEn": "Philosophy",
+        "coefficient": 2
+      },
+      {
+        "slug": "langue-etrangere-2",
+        "nameAr": "اللغة الأجنبية الثانية",
+        "nameFr": "Langue étrangère 2",
+        "nameEn": "Second foreign language",
+        "coefficient": 2
+      }
+    ]
+  },
+  {
+    "id": "sciences-vie-terre",
+    "nameAr": "مسلك علوم الحياة والأرض",
+    "nameFr": "Branche Sciences de la Vie et de la Terre",
+    "nameEn": "Life and Earth Sciences",
+    "subjects": [
+      {
+        "slug": "mathematiques",
+        "nameAr": "الرياضيات",
+        "nameFr": "Mathématiques",
+        "nameEn": "Mathematics",
+        "coefficient": 7
+      },
+      {
+        "slug": "physique-chimie",
+        "nameAr": "الفيزياء والكيمياء",
+        "nameFr": "Physique et Chimie",
+        "nameEn": "Physics and Chemistry",
+        "coefficient": 5
+      },
+      {
+        "slug": "svt",
+        "nameAr": "علوم الحياة والأرض",
+        "nameFr": "Sciences de la Vie et de la Terre",
+        "nameEn": "Life and Earth Sciences",
+        "coefficient": 7
+      },
+      {
+        "slug": "philosophie",
+        "nameAr": "الفلسفة",
+        "nameFr": "Philosophie",
+        "nameEn": "Philosophy",
+        "coefficient": 2
+      },
+      {
+        "slug": "langue-etrangere-2",
+        "nameAr": "اللغة الأجنبية الثانية",
+        "nameFr": "Langue étrangère 2",
+        "nameEn": "Second foreign language",
+        "coefficient": 2
+      }
+    ]
+  },
+  {
+    "id": "sciences-mathematiques-a",
+    "nameAr": "مسلك العلوم الرياضية - أ -",
+    "nameFr": "Branche Sciences Mathématiques - A -",
+    "nameEn": "Mathematical Sciences - A",
+    "subjects": [
+      {
+        "slug": "mathematiques",
+        "nameAr": "الرياضيات",
+        "nameFr": "Mathématiques",
+        "nameEn": "Mathematics",
+        "coefficient": 9
+      },
+      {
+        "slug": "physique-chimie",
+        "nameAr": "الفيزياء والكيمياء",
+        "nameFr": "Physique et Chimie",
+        "nameEn": "Physics and Chemistry",
+        "coefficient": 7
+      },
+      {
+        "slug": "svt",
+        "nameAr": "علوم الحياة والأرض",
+        "nameFr": "Sciences de la Vie et de la Terre",
+        "nameEn": "Life and Earth Sciences",
+        "coefficient": 3
+      },
+      {
+        "slug": "philosophie",
+        "nameAr": "الفلسفة",
+        "nameFr": "Philosophie",
+        "nameEn": "Philosophy",
+        "coefficient": 2
+      },
+      {
+        "slug": "langue-etrangere-2",
+        "nameAr": "اللغة الأجنبية الثانية",
+        "nameFr": "Langue étrangère 2",
+        "nameEn": "Second foreign language",
+        "coefficient": 2
+      }
+    ]
+  },
+  {
+    "id": "sciences-mathematiques-b",
+    "nameAr": "مسلك العلوم الرياضية - ب -",
+    "nameFr": "Branche Sciences Mathématiques - B -",
+    "nameEn": "Mathematical Sciences - B",
+    "subjects": [
+      {
+        "slug": "mathematiques",
+        "nameAr": "الرياضيات",
+        "nameFr": "Mathématiques",
+        "nameEn": "Mathematics",
+        "coefficient": 9
+      },
+      {
+        "slug": "physique-chimie",
+        "nameAr": "الفيزياء والكيمياء",
+        "nameFr": "Physique et Chimie",
+        "nameEn": "Physics and Chemistry",
+        "coefficient": 7
+      },
+      {
+        "slug": "sciences-ingenieur",
+        "nameAr": "علوم المهندس",
+        "nameFr": "Sciences de l'ingénieur",
+        "nameEn": "Engineering Sciences",
+        "coefficient": 3
+      },
+      {
+        "slug": "philosophie",
+        "nameAr": "الفلسفة",
+        "nameFr": "Philosophie",
+        "nameEn": "Philosophy",
+        "coefficient": 2
+      },
+      {
+        "slug": "langue-etrangere-2",
+        "nameAr": "اللغة الأجنبية الثانية",
+        "nameFr": "Langue étrangère 2",
+        "nameEn": "Second foreign language",
+        "coefficient": 2
+      }
+    ]
+  }
+]
