@@ -32,6 +32,14 @@ function Footer() {
           >
             {t("footer.instagram")}
           </a>
+          <a
+            href={SOCIAL_LINKS.tiktok}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-sm font-semibold text-cyan-700 underline decoration-cyan-400 underline-offset-2 hover:text-cyan-900"
+          >
+            {t("footer.tiktok")}
+          </a>
         </div>
       </div>
     </footer>

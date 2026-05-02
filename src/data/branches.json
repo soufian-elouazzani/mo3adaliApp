@@ -1,184 +1,664 @@
 [
-  {
-    "id": "sciences-physiques-chimie",
-    "nameAr": "مسلك العلوم الفيزيائية والكيمياء",
-    "nameFr": "Branche Sciences Physiques et Chimiques",
-    "nameEn": "Physical and Chemical Sciences",
-    "scolaire": true,
-    "subjects": [
-            {
-        "slug": "mathematiques-national",
-        "tag": "National",
-        "nameAr": "الرياضيات",
-        "nameFr": "Mathématiques",
-        "nameEn": "Mathematics",
-        "coefficient": 7
-      },
-      {
-        "slug": "mathematiques-regional",
-        "tag": "Regional",
-        "nameAr": "الرياضيات",
-        "nameFr": "Mathématiques",
-        "nameEn": "Mathematics",
-        "coefficient": 7
-      },,
-      {
-        "slug": "physique-chimie",
-        "nameAr": "الفيزياء والكيمياء",
-        "nameFr": "Physique et Chimie",
-        "nameEn": "Physics and Chemistry",
-        "coefficient": 7
-      },
-      {
-        "slug": "svt",
-        "nameAr": "علوم الحياة والأرض",
-        "nameFr": "Sciences de la Vie et de la Terre",
-        "nameEn": "Life and Earth Sciences",
-        "coefficient": 5
-      },
-      {
-        "slug": "philosophie",
-        "nameAr": "الفلسفة",
-        "nameFr": "Philosophie",
-        "nameEn": "Philosophy",
-        "coefficient": 2
-      },
-      {
-        "slug": "langue-etrangere-2",
-        "nameAr": "اللغة الأجنبية الثانية",
-        "nameFr": "Langue étrangère 2",
-        "nameEn": "Second foreign language",
-        "coefficient": 2
-      }
-    ]
-  },
-  {
-    "id": "sciences-vie-terre",
-    "nameAr": "مسلك علوم الحياة والأرض",
-    "nameFr": "Branche Sciences de la Vie et de la Terre",
-    "nameEn": "Life and Earth Sciences",
-    "subjects": [
-      {
-        "slug": "mathematiques",
-        "nameAr": "الرياضيات",
-        "nameFr": "Mathématiques",
-        "nameEn": "Mathematics",
-        "coefficient": 7
-      },
-      {
-        "slug": "physique-chimie",
-        "nameAr": "الفيزياء والكيمياء",
-        "nameFr": "Physique et Chimie",
-        "nameEn": "Physics and Chemistry",
-        "coefficient": 5
-      },
-      {
-        "slug": "svt",
-        "nameAr": "علوم الحياة والأرض",
-        "nameFr": "Sciences de la Vie et de la Terre",
-        "nameEn": "Life and Earth Sciences",
-        "coefficient": 7
-      },
-      {
-        "slug": "philosophie",
-        "nameAr": "الفلسفة",
-        "nameFr": "Philosophie",
-        "nameEn": "Philosophy",
-        "coefficient": 2
-      },
-      {
-        "slug": "langue-etrangere-2",
-        "nameAr": "اللغة الأجنبية الثانية",
-        "nameFr": "Langue étrangère 2",
-        "nameEn": "Second foreign language",
-        "coefficient": 2
-      }
-    ]
-  },
-  {
-    "id": "sciences-mathematiques-a",
-    "nameAr": "مسلك العلوم الرياضية - أ -",
-    "nameFr": "Branche Sciences Mathématiques - A -",
-    "nameEn": "Mathematical Sciences - A",
-    "subjects": [
-      {
-        "slug": "mathematiques",
-        "nameAr": "الرياضيات",
-        "nameFr": "Mathématiques",
-        "nameEn": "Mathematics",
-        "coefficient": 9
-      },
-      {
-        "slug": "physique-chimie",
-        "nameAr": "الفيزياء والكيمياء",
-        "nameFr": "Physique et Chimie",
-        "nameEn": "Physics and Chemistry",
-        "coefficient": 7
-      },
-      {
-        "slug": "svt",
-        "nameAr": "علوم الحياة والأرض",
-        "nameFr": "Sciences de la Vie et de la Terre",
-        "nameEn": "Life and Earth Sciences",
-        "coefficient": 3
-      },
-      {
-        "slug": "philosophie",
-        "nameAr": "الفلسفة",
-        "nameFr": "Philosophie",
-        "nameEn": "Philosophy",
-        "coefficient": 2
-      },
-      {
-        "slug": "langue-etrangere-2",
-        "nameAr": "اللغة الأجنبية الثانية",
-        "nameFr": "Langue étrangère 2",
-        "nameEn": "Second foreign language",
-        "coefficient": 2
-      }
-    ]
-  },
-  {
-    "id": "sciences-mathematiques-b",
-    "nameAr": "مسلك العلوم الرياضية - ب -",
-    "nameFr": "Branche Sciences Mathématiques - B -",
-    "nameEn": "Mathematical Sciences - B",
-    "subjects": [
-      {
-        "slug": "mathematiques",
-        "nameAr": "الرياضيات",
-        "nameFr": "Mathématiques",
-        "nameEn": "Mathematics",
-        "coefficient": 9
-      },
-      {
-        "slug": "physique-chimie",
-        "nameAr": "الفيزياء والكيمياء",
-        "nameFr": "Physique et Chimie",
-        "nameEn": "Physics and Chemistry",
-        "coefficient": 7
-      },
-      {
-        "slug": "sciences-ingenieur",
-        "nameAr": "علوم المهندس",
-        "nameFr": "Sciences de l'ingénieur",
-        "nameEn": "Engineering Sciences",
-        "coefficient": 3
-      },
-      {
-        "slug": "philosophie",
-        "nameAr": "الفلسفة",
-        "nameFr": "Philosophie",
-        "nameEn": "Philosophy",
-        "coefficient": 2
-      },
-      {
-        "slug": "langue-etrangere-2",
-        "nameAr": "اللغة الأجنبية الثانية",
-        "nameFr": "Langue étrangère 2",
-        "nameEn": "Second foreign language",
-        "coefficient": 2
-      }
-    ]
-  }
+    {
+      "id": "pc",
+      "nameAr": "علوم فيزيائية",
+      "nameFr": "Sciences Physiques",
+      "nameEn": "Physical Sciences",
+      "libre": true,
+      "scolaire": false,
+      "subjects": [
+        {
+          "slug": "math",
+          "tag": "National",
+          "nameAr": "رياضيات",
+          "nameFr": "Mathématiques",
+          "nameEn": "Mathematics",
+          "coefficient": 7
+        },
+        {
+          "slug": "physics",
+          "tag": "National",
+          "nameAr": "فيزياء و كيمياء",
+          "nameFr": "Physique et Chimie",
+          "nameEn": "Physics and Chemistry",
+          "coefficient": 7
+        },
+        {"slug": "svt",
+          "tag": "National",
+          "nameAr": "علوم الحياة والأرض",
+          "nameFr": "Sciences de la Vie et de la Terre",
+          "nameEn": "Life and Earth Sciences",
+          "coefficient": 5
+        },
+        {
+          "slug": "english",
+          "tag": "National",
+          "nameAr": "انجليزية",
+          "nameFr": "Anglais",
+          "nameEn": "English",
+          "coefficient": 2
+        },
+        {
+          "slug": "philosophy",
+          "tag": "National",
+          "nameAr": "فلسفة",
+          "nameFr": "Philosophie",
+          "nameEn": "Philosophy",
+          "coefficient": 2
+        },
+        {
+          "slug": "arabic",
+          "tag": "Regional",
+          "nameAr": "الغة عربية",
+          "nameFr": "Arabe",
+          "nameEn": "Arabic",
+          "coefficient": 2
+        },
+        {
+          "slug": "french",
+          "tag": "Regional",
+          "nameAr": "فرنسية",
+          "nameFr": "Français",
+          "nameEn": "French",
+          "coefficient": 4
+        },
+        {
+          "slug": "history-and-geography",
+          "tag": "Regional",
+          "nameAr": "التاريخ والجغرافيا",
+          "nameFr": "Histoire et Géographie",
+          "nameEn": "History and Geography",
+          "coefficient": 2
+        },
+        {
+          "slug": "islamic-education",
+          "tag": "Regional",
+          "nameAr": "تربية إسلامية",
+          "nameFr": "Éducation Islamique",
+          "nameEn": "Islamic Education",
+          "coefficient": 2
+        },
+        {
+          "slug": "math-cc",
+          "tag": "ControlContinue",
+          "nameAr": "رياضيات",
+          "nameFr": "Mathématiques",
+          "nameEn": "Mathematics",
+          "coefficient": 7
+        },
+        {
+          "slug": "physics-cc",
+          "tag": "ControlContinue",
+          "nameAr": "فيزياء و كيمياء",
+          "nameFr": "Physique et Chimie",
+          "nameEn": "Physics and Chemistry",
+          "coefficient": 7
+        },
+        {
+          "slug": "svt-cc",
+          "tag": "ControlContinue",
+          "nameAr": "علوم الحياة والأرض",
+          "nameFr": "Sciences de la Vie et de la Terre",
+          "nameEn": "Life and Earth Sciences",
+          "coefficient": 5
+        },
+        {
+          "slug": "english-cc",
+          "tag": "ControlContinue",
+          "nameAr": "انجليزية",
+          "nameFr": "Anglais",
+          "nameEn": "English",
+          "coefficient": 2
+        },
+        {
+          "slug": "philosophy-cc",
+          "tag": "ControlContinue",
+          "nameAr": "فلسفة",
+          "nameFr": "Philosophie",
+          "nameEn": "Philosophy",
+          "coefficient": 2
+        },
+        {
+          "slug": "islamic-education-cc",
+          "tag": "ControlContinue",
+          "nameAr": "تربية إسلامية",
+          "nameFr": "Éducation Islamique",
+          "nameEn": "Islamic Education",
+          "coefficient": 2
+        },
+        {
+          "slug": "sports",
+          "tag": "ControlContinue",
+          "nameAr": "تربية بدنية",
+          "nameFr": "Éducation Physique",
+          "nameEn": "Physical Education",
+          "coefficient": 4
+        },
+        {
+          "slug": "arabic-cc",
+          "tag": "ControlContinue",
+          "nameAr": "الغة عربية",
+          "nameFr": "Arabe",
+          "nameEn": "Arabic",
+          "coefficient": 2
+        },
+        {
+          "slug": "french-cc",
+          "tag": "ControlContinue",
+          "nameAr": "فرنسية",
+          "nameFr": "Français",
+          "nameEn": "French",
+          "coefficient": 4
+        },
+        { "slug": "well-behavior-cc",
+          "tag": "ControlContinue",
+          "nameAr": "المواظبة و السلوك",
+          "nameFr": "Bien Comportement",
+          "nameEn": "Good Behavior and Conduct",
+          "coefficient": 1
+        }
+      ]
+    },
+    {
+      "id": "svt",
+      "nameAr": "علوم الحياة والأرض",
+      "nameFr": "Sciences de la Vie et de la Terre",
+      "nameEn": "Life and Earth Sciences",
+      "libre": false,
+      "scolaire": true,
+      "subjects": [
+        {
+          "slug": "math",
+          "tag": "National",
+          "nameAr": "رياضيات",
+          "nameFr": "Mathématiques",
+          "nameEn": "Mathematics",
+          "coefficient": 7
+        },
+        {
+          "slug": "physics",
+          "tag": "National",
+          "nameAr": "فيزياء و كيمياء",
+          "nameFr": "Physique et Chimie",
+          "nameEn": "Physics and Chemistry",
+          "coefficient": 5
+        },
+        {"slug": "svt",
+          "tag": "National",
+          "nameAr": "علوم الحياة والأرض",
+          "nameFr": "Sciences de la Vie et de la Terre",
+          "nameEn": "Life and Earth Sciences",
+          "coefficient": 7
+        },
+        {
+          "slug": "english",
+          "tag": "National",
+          "nameAr": "انجليزية",
+          "nameFr": "Anglais",
+          "nameEn": "English",
+          "coefficient": 2
+        },
+        {
+          "slug": "philosophy",
+          "tag": "National",
+          "nameAr": "فلسفة",
+          "nameFr": "Philosophie",
+          "nameEn": "Philosophy",
+          "coefficient": 2
+        },
+        {
+          "slug": "arabic",
+          "tag": "Regional",
+          "nameAr": "الغة عربية",
+          "nameFr": "Arabe",
+          "nameEn": "Arabic",
+          "coefficient": 2
+        },
+        {
+          "slug": "french",
+          "tag": "Regional",
+          "nameAr": "فرنسية",
+          "nameFr": "Français",
+          "nameEn": "French",
+          "coefficient": 4
+        },
+        {
+          "slug": "history-and-geography",
+          "tag": "Regional",
+          "nameAr": "التاريخ والجغرافيا",
+          "nameFr": "Histoire et Géographie",
+          "nameEn": "History and Geography",
+          "coefficient": 2
+        },
+        {
+          "slug": "islamic-education",
+          "tag": "Regional",
+          "nameAr": "تربية إسلامية",
+          "nameFr": "Éducation Islamique",
+          "nameEn": "Islamic Education",
+          "coefficient": 2
+        },
+        {
+          "slug": "math-cc",
+          "tag": "ControlContinue",
+          "nameAr": "رياضيات",
+          "nameFr": "Mathématiques",
+          "nameEn": "Mathematics",
+          "coefficient": 7
+        },
+        {
+          "slug": "physics-cc",
+          "tag": "ControlContinue",
+          "nameAr": "فيزياء و كيمياء",
+          "nameFr": "Physique et Chimie",
+          "nameEn": "Physics and Chemistry",
+          "coefficient": 5
+        },
+        {
+          "slug": "svt-cc",
+          "tag": "ControlContinue",
+          "nameAr": "علوم الحياة والأرض",
+          "nameFr": "Sciences de la Vie et de la Terre",
+          "nameEn": "Life and Earth Sciences",
+          "coefficient": 7
+        },
+        {
+          "slug": "english-cc",
+          "tag": "ControlContinue",
+          "nameAr": "انجليزية",
+          "nameFr": "Anglais",
+          "nameEn": "English",
+          "coefficient": 2
+        },
+        {
+          "slug": "philosophy-cc",
+          "tag": "ControlContinue",
+          "nameAr": "فلسفة",
+          "nameFr": "Philosophie",
+          "nameEn": "Philosophy",
+          "coefficient": 2
+        },
+        {
+          "slug": "islamic-education-cc",
+          "tag": "ControlContinue",
+          "nameAr": "تربية إسلامية",
+          "nameFr": "Éducation Islamique",
+          "nameEn": "Islamic Education",
+          "coefficient": 2
+        },
+        {
+          "slug": "sports",
+          "tag": "ControlContinue",
+          "nameAr": "تربية بدنية",
+          "nameFr": "Éducation Physique",
+          "nameEn": "Physical Education",
+          "coefficient": 4
+        },
+        {
+          "slug": "arabic-cc",
+          "tag": "ControlContinue",
+          "nameAr": "الغة عربية",
+          "nameFr": "Arabe",
+          "nameEn": "Arabic",
+          "coefficient": 2
+        },
+        {
+          "slug": "french-cc",
+          "tag": "ControlContinue",
+          "nameAr": "فرنسية",
+          "nameFr": "Français",
+          "nameEn": "French",
+          "coefficient": 4
+        },
+        { "slug": "well-behavior-cc",
+          "tag": "ControlContinue",
+          "nameAr": "المواظبة و السلوك",
+          "nameFr": "Bien Comportement",
+          "nameEn": "Good Behavior and Conduct",
+          "coefficient": 1
+        }
+      ]
+    },
+    {
+      "id": "math-a",
+      "nameAr": "[تحريبي] رياضيات أ",
+      "nameFr": "[Demo] Mathématiques A",
+      "nameEn": "[Demo] Mathematics A",
+      "libre": true,
+      "scolaire": true,
+      "subjects": [
+        {
+          "slug": "analysis",
+          "tag": "National",
+          "nameAr": "تحليل رياضي",
+          "nameFr": "Analyse Mathématique",
+          "nameEn": "Mathematical Analysis",
+          "coefficient": 9
+        },
+        {
+          "slug": "algebra",
+          "tag": "National",
+          "nameAr": "جبر",
+          "nameFr": "Algèbre",
+          "nameEn": "Algebra",
+          "coefficient": 7
+        },
+        {
+          "slug": "geometry",
+          "tag": "National",
+          "nameAr": "هندسة",
+          "nameFr": "Géométrie",
+          "nameEn": "Geometry",
+          "coefficient": 6
+        },
+        {
+          "slug": "analysis-regional",
+          "tag": "Regional",
+          "nameAr": "تحليل رياضي",
+          "nameFr": "Analyse Mathématique",
+          "nameEn": "Mathematical Analysis",
+          "coefficient": 6
+        },
+        {
+          "slug": "algebra-regional",
+          "tag": "Regional",
+          "nameAr": "جبر",
+          "nameFr": "Algèbre",
+          "nameEn": "Algebra",
+          "coefficient": 5
+        },
+        {
+          "slug": "geometry-regional",
+          "tag": "Regional",
+          "nameAr": "هندسة",
+          "nameFr": "Géométrie",
+          "nameEn": "Geometry",
+          "coefficient": 4
+        },
+        {
+          "slug": "analysis-cc",
+          "tag": "ControlContinue",
+          "nameAr": "تحليل رياضي",
+          "nameFr": "Analyse Mathématique",
+          "nameEn": "Mathematical Analysis",
+          "coefficient": 4
+        },
+        {
+          "slug": "algebra-cc",
+          "tag": "ControlContinue",
+          "nameAr": "جبر",
+          "nameFr": "Algèbre",
+          "nameEn": "Algebra",
+          "coefficient": 3
+        },
+        {
+          "slug": "geometry-cc",
+          "tag": "ControlContinue",
+          "nameAr": "هندسة",
+          "nameFr": "Géométrie",
+          "nameEn": "Geometry",
+          "coefficient": 2
+        },
+        {
+          "slug": "physics",
+          "tag": "National",
+          "nameAr": "فيزياء",
+          "nameFr": "Physique",
+          "nameEn": "Physics",
+          "coefficient": 4
+        },
+        {
+          "slug": "computer-science",
+          "tag": "National",
+          "nameAr": "علوم حاسوب",
+          "nameFr": "Informatique",
+          "nameEn": "Computer Science",
+          "coefficient": 3
+        },
+        {
+          "slug": "english",
+          "tag": "Regional",
+          "nameAr": "انجليزية",
+          "nameFr": "Anglais",
+          "nameEn": "English",
+          "coefficient": 3
+        },
+        {
+          "slug": "philosophy",
+          "tag": "Regional",
+          "nameAr": "فلسفة",
+          "nameFr": "Philosophie",
+          "nameEn": "Philosophy",
+          "coefficient": 3
+        },
+        {
+          "slug": "arabic-cc",
+          "tag": "ControlContinue",
+          "nameAr": "لغة عربية",
+          "nameFr": "Arabe",
+          "nameEn": "Arabic",
+          "coefficient": 2
+        },
+        {
+          "slug": "sports-cc",
+          "tag": "ControlContinue",
+          "nameAr": "تربية بدنية",
+          "nameFr": "Éducation Physique",
+          "nameEn": "Physical Education",
+          "coefficient": 1
+        }
+      ]
+    },
+    {
+      "id": "math-b",
+      "nameAr": "[تحريبي] رياضيات ب",
+      "nameFr": "[Demo] Mathématiques B",
+      "nameEn": "[Demo] Mathematics B",
+      "libre": true,
+      "scolaire": true,
+      "subjects": [
+        {
+          "slug": "analysis",
+          "tag": "National",
+          "nameAr": "تحليل رياضي",
+          "nameFr": "Analyse Mathématique",
+          "nameEn": "Mathematical Analysis",
+          "coefficient": 8
+        },
+        {
+          "slug": "probability",
+          "tag": "National",
+          "nameAr": "احتمالات وإحصاء",
+          "nameFr": "Probabilités et Statistiques",
+          "nameEn": "Probability and Statistics",
+          "coefficient": 7
+        },
+        {
+          "slug": "numerical-methods",
+          "tag": "National",
+          "nameAr": "طرق عددية",
+          "nameFr": "Méthodes Numériques",
+          "nameEn": "Numerical Methods",
+          "coefficient": 6
+        },
+        {
+          "slug": "analysis-regional",
+          "tag": "Regional",
+          "nameAr": "تحليل رياضي",
+          "nameFr": "Analyse Mathématique",
+          "nameEn": "Mathematical Analysis",
+          "coefficient": 6
+        },
+        {
+          "slug": "probability-regional",
+          "tag": "Regional",
+          "nameAr": "احتمالات وإحصاء",
+          "nameFr": "Probabilités et Statistiques",
+          "nameEn": "Probability and Statistics",
+          "coefficient": 5
+        },
+        {
+          "slug": "numerical-regional",
+          "tag": "Regional",
+          "nameAr": "طرق عددية",
+          "nameFr": "Méthodes Numériques",
+          "nameEn": "Numerical Methods",
+          "coefficient": 4
+        },
+        {
+          "slug": "analysis-cc",
+          "tag": "ControlContinue",
+          "nameAr": "تحليل رياضي",
+          "nameFr": "Analyse Mathématique",
+          "nameEn": "Mathematical Analysis",
+          "coefficient": 4
+        },
+        {
+          "slug": "probability-cc",
+          "tag": "ControlContinue",
+          "nameAr": "احتمالات وإحصاء",
+          "nameFr": "Probabilités et Statistiques",
+          "nameEn": "Probability and Statistics",
+          "coefficient": 3
+        },
+        {
+          "slug": "numerical-cc",
+          "tag": "ControlContinue",
+          "nameAr": "طرق عددية",
+          "nameFr": "Méthodes Numériques",
+          "nameEn": "Numerical Methods",
+          "coefficient": 2
+        },
+        {
+          "slug": "economics",
+          "tag": "National",
+          "nameAr": "اقتصاد",
+          "nameFr": "Économie",
+          "nameEn": "Economics",
+          "coefficient": 4
+        },
+        {
+          "slug": "accounting",
+          "tag": "National",
+          "nameAr": "محاسبة",
+          "nameFr": "Comptabilité",
+          "nameEn": "Accounting",
+          "coefficient": 4
+        },
+        {
+          "slug": "english-regional",
+          "tag": "Regional",
+          "nameAr": "انجليزية",
+          "nameFr": "Anglais",
+          "nameEn": "English",
+          "coefficient": 3
+        },
+        {
+          "slug": "french-regional",
+          "tag": "Regional",
+          "nameAr": "فرنسية",
+          "nameFr": "Français",
+          "nameEn": "French",
+          "coefficient": 3
+        },
+        {
+          "slug": "islamic-cc",
+          "tag": "ControlContinue",
+          "nameAr": "تربية إسلامية",
+          "nameFr": "Éducation Islamique",
+          "nameEn": "Islamic Education",
+          "coefficient": 2
+        },
+        {
+          "slug": "sports-cc",
+          "tag": "ControlContinue",
+          "nameAr": "تربية بدنية",
+          "nameFr": "Éducation Physique",
+          "nameEn": "Physical Education",
+          "coefficient": 1
+        }
+      ]
+    },
+    {
+      "id": "demo-scolaire-only",
+      "nameAr": "[تحريبي] فرع تجريبي متدريس فقط",
+      "nameFr": "[Demo] Branche Scolaire Uniquement",
+      "nameEn": "[Demo] School-Only Branch",
+      "libre": false,
+      "scolaire": true,
+      "subjects": [
+        {
+          "slug": "basic-math",
+          "tag": "National",
+          "nameAr": "رياضيات أساسية",
+          "nameFr": "Mathématiques de Base",
+          "nameEn": "Basic Mathematics",
+          "coefficient": 5
+        },
+        {
+          "slug": "basic-science",
+          "tag": "National",
+          "nameAr": "علوم أساسية",
+          "nameFr": "Sciences de Base",
+          "nameEn": "Basic Sciences",
+          "coefficient": 4
+        },
+        {
+          "slug": "basic-language",
+          "tag": "National",
+          "nameAr": "لغة أساسية",
+          "nameFr": "Langue de Base",
+          "nameEn": "Basic Language",
+          "coefficient": 4
+        },
+        {
+          "slug": "math-regional",
+          "tag": "Regional",
+          "nameAr": "رياضيات",
+          "nameFr": "Mathématiques",
+          "nameEn": "Mathematics",
+          "coefficient": 4
+        },
+        {
+          "slug": "science-regional",
+          "tag": "Regional",
+          "nameAr": "علوم",
+          "nameFr": "Sciences",
+          "nameEn": "Science",
+          "coefficient": 3
+        },
+        {
+          "slug": "language-regional",
+          "tag": "Regional",
+          "nameAr": "لغة",
+          "nameFr": "Langue",
+          "nameEn": "Language",
+          "coefficient": 3
+        },
+        {
+          "slug": "math-cc",
+          "tag": "ControlContinue",
+          "nameAr": "رياضيات",
+          "nameFr": "Mathématiques",
+          "nameEn": "Mathematics",
+          "coefficient": 3
+        },
+        {
+          "slug": "science-cc",
+          "tag": "ControlContinue",
+          "nameAr": "علوم",
+          "nameFr": "Sciences",
+          "nameEn": "Science",
+          "coefficient": 2
+        },
+        {
+          "slug": "language-cc",
+          "tag": "ControlContinue",
+          "nameAr": "لغة",
+          "nameFr": "Langue",
+          "nameEn": "Language",
+          "coefficient": 2
+        }
+      ]
+    }
 ]

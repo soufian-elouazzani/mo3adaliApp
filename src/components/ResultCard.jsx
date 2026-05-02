@@ -38,12 +38,12 @@ function ResultCard({ result }) {
       )}
 
       <div className="mt-6 space-y-4 text-base md:text-lg">
-        {result.total != null && (
+        {/* {result.total != null && (
           <p className="flex items-center justify-between gap-4 rounded-xl bg-slate-50 px-5 py-4">
             <span className="text-slate-600">{t("total")}</span>
             <span className="font-bold text-slate-900">{result.total}</span>
           </p>
-        )}
+        )} */}
         <p className="flex items-center justify-between gap-4 rounded-xl bg-slate-50 px-5 py-4">
           <span className="text-slate-600">{t("average")}</span>
           <span className="font-bold text-slate-900">{result.average}/20</span>

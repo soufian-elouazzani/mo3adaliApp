@@ -180,31 +180,6 @@ function App() {
 
             <label className="block">
               <span className="mb-2 block text-sm font-semibold text-slate-800 md:text-base">
-                {t("calculationTypeLabel")}
-              </span>
-              <select
-                className="w-full rounded-xl border border-slate-300 bg-white px-4 py-3 text-base text-slate-900 shadow-sm focus:border-cyan-600 focus:outline-none focus:ring-2 focus:ring-cyan-500/30"
-                {...calculationTypeRegister}
-                onChange={(event) => {
-                  calculationTypeRegister.onChange(event);
-                  setResult(null);
-                  setGlobalError("");
-                }}
-              >
-                <option value="">—</option>
-                {calculationTypes.map((ct) => (
-                  <option key={ct.id} value={ct.id}>
-                    {t(`calcType.${ct.id}`)}
-                  </option>
-                ))}
-              </select>
-              {errors.calculationType && (
-                <p className="mt-2 text-sm text-rose-700">{errors.calculationType.message}</p>
-              )}
-            </label>
-
-            <label className="block">
-              <span className="mb-2 block text-sm font-semibold text-slate-800 md:text-base">
                 {t("filiereLabel")}
               </span>
               <select
@@ -234,6 +209,30 @@ function App() {
               </select>
               {errors.filiere && (
                 <p className="mt-2 text-sm text-rose-700">{errors.filiere.message}</p>
+              )}
+            </label>
+            <label className="block">
+              <span className="mb-2 block text-sm font-semibold text-slate-800 md:text-base">
+                {t("calculationTypeLabel")}
+              </span>
+              <select
+                className="w-full rounded-xl border border-slate-300 bg-white px-4 py-3 text-base text-slate-900 shadow-sm focus:border-cyan-600 focus:outline-none focus:ring-2 focus:ring-cyan-500/30"
+                {...calculationTypeRegister}
+                onChange={(event) => {
+                  calculationTypeRegister.onChange(event);
+                  setResult(null);
+                  setGlobalError("");
+                }}
+              >
+                <option value="">—</option>
+                {calculationTypes.map((ct) => (
+                  <option key={ct.id} value={ct.id}>
+                    {t(`calcType.${ct.id}`)}
+                  </option>
+                ))}
+              </select>
+              {errors.calculationType && (
+                <p className="mt-2 text-sm text-rose-700">{errors.calculationType.message}</p>
               )}
             </label>
           </div>
