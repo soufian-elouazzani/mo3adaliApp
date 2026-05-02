@@ -8,16 +8,23 @@ export const statuses = [
 function normalizeBranches(raw) {
   return raw.map((branch) => ({
     ...branch,
-    subjects: branch.subjects.map((subject) => ({
-      ...subject,
-      id: `${branch.id}__${subject.slug}`,
-    })),
+    libre: branch.libre !== false,
+    scolaire: branch.scolaire !== false,
+    subjects: (branch.subjects ?? []).map((subject) => {
+      const tag = subject.tag ?? "National";
+      return {
+        ...subject,
+        tag,
+        id: `${branch.id}__${subject.slug}`,
+      };
+    }),
   }));
 }
 
 /**
  * All baccalauréat branches. To add a new branch, append an object to
- * `src/data/branches.json` (id, nameAr, nameFr, nameEn, subjects with slug + names + coefficient).
+ * `src/data/branches.json` (id, nameAr, nameFr, nameEn, optional `libre`/`scolaire` booleans,
+ * subjects with `slug`, `tag` ("National"|"Regional"|"ControlContinue"), names, `coefficient`).
  */
 export const branches = normalizeBranches(branchesRaw);
 

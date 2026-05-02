@@ -4,14 +4,24 @@
     "nameAr": "مسلك العلوم الفيزيائية والكيمياء",
     "nameFr": "Branche Sciences Physiques et Chimiques",
     "nameEn": "Physical and Chemical Sciences",
+    "scolaire": true,
     "subjects": [
-      {
-        "slug": "mathematiques",
+            {
+        "slug": "mathematiques-national",
+        "tag": "National",
         "nameAr": "الرياضيات",
         "nameFr": "Mathématiques",
         "nameEn": "Mathematics",
         "coefficient": 7
       },
+      {
+        "slug": "mathematiques-regional",
+        "tag": "Regional",
+        "nameAr": "الرياضيات",
+        "nameFr": "Mathématiques",
+        "nameEn": "Mathematics",
+        "coefficient": 7
+      },,
       {
         "slug": "physique-chimie",
         "nameAr": "الفيزياء والكيمياء",
