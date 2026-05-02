@@ -76,6 +76,19 @@ function App() {
     required: t("errors.requiredFiliere"),
   });
 
+  const getAvailableCalculationTypes = (selectedStatus) => {
+    if (selectedStatus === 'libre') {
+      return calculationTypes.filter(
+        ct => ct.id !== 'controlContinueOnly' && ct.id !== 'everything'
+      );
+    }
+    return calculationTypes;
+  };
+
+  const currentStatus = watchedStatus; // ← USE watchedStatus instead of statusRegister.value
+  const availableTypes = getAvailableCalculationTypes(currentStatus);
+
+
   useEffect(() => {
     document.documentElement.lang = i18n.language;
     document.documentElement.dir = i18n.language === "ar" ? "rtl" : "ltr";
@@ -225,7 +238,7 @@ function App() {
                 }}
               >
                 <option value="">—</option>
-                {calculationTypes.map((ct) => (
+                {availableTypes.map((ct) => (
                   <option key={ct.id} value={ct.id}>
                     {t(`calcType.${ct.id}`)}
                   </option>
