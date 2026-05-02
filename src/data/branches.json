@@ -710,7 +710,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -726,7 +726,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 4
@@ -790,7 +790,7 @@
         {
           "slug": "english-cc",
           "tag": "ControlContinue",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -806,7 +806,7 @@
         {
           "slug": "first-foreign-language-cc",
           "tag": "ControlContinue",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 4
@@ -880,7 +880,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -896,7 +896,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 3
@@ -952,7 +952,7 @@
         {
           "slug": "english-cc",
           "tag": "ControlContinue",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -968,7 +968,7 @@
         {
           "slug": "first-foreign-language-cc",
           "tag": "ControlContinue",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 3
@@ -1066,7 +1066,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -1090,7 +1090,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 3
@@ -1130,7 +1130,7 @@
         {
           "slug": "english-cc",
           "tag": "ControlContinue",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -1154,7 +1154,7 @@
         {
           "slug": "first-foreign-language-cc",
           "tag": "ControlContinue",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 3
@@ -1236,7 +1236,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -1252,7 +1252,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 4
@@ -1326,7 +1326,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -1342,7 +1342,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 4
@@ -1424,7 +1424,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -1440,7 +1440,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 4
@@ -1514,7 +1514,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -1530,7 +1530,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 4
@@ -1604,7 +1604,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -1620,7 +1620,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 4
@@ -1694,7 +1694,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -1710,7 +1710,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 4
@@ -1768,7 +1768,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -1784,7 +1784,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 4
@@ -1850,7 +1850,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -1866,7 +1866,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 3
@@ -1956,7 +1956,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -1972,7 +1972,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 3
@@ -2030,7 +2030,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 4
@@ -2054,7 +2054,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 4
@@ -2096,7 +2096,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 3
@@ -2120,7 +2120,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 4
@@ -2178,7 +2178,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -2202,7 +2202,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 4
@@ -2276,7 +2276,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -2292,7 +2292,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 3
@@ -2358,7 +2358,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -2374,7 +2374,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 3
@@ -2464,7 +2464,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -2472,7 +2472,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 4
@@ -2506,7 +2506,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 4
@@ -2530,7 +2530,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 4
@@ -2580,7 +2580,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -2604,7 +2604,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 3
@@ -2678,7 +2678,7 @@
         {
           "slug": "english",
           "tag": "National",
-          "nameAr": "اللغة الأجنبية الثانية",
+          "nameAr": "انجليزية",
           "nameFr": "Langue Étrangère 2",
           "nameEn": "Second Foreign Language",
           "coefficient": 2
@@ -2686,7 +2686,7 @@
         {
           "slug": "first-foreign-language",
           "tag": "Regional",
-          "nameAr": "اللغة الأجنبية الأولى",
+          "nameAr": "الفرنسية",
           "nameFr": "Langue Étrangère 1",
           "nameEn": "First Foreign Language",
           "coefficient": 4
