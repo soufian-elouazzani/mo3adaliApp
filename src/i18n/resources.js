@@ -3,8 +3,8 @@ export const resources = {
     translation: {
       appName: "معدلي Mo3adali",
       appDescription:
-        "أداة لحساب المعدل والمجموع المرجح حسب شعبة البكالوريا المغربية وحالة المترشح (حر أو متمدرس).",
-      appTaglineBac: "هذا التطبيق يسمح لك بحساب المعدل لشعب البكالوريا المغربية.",
+        "أداة لحساب المعدل  حسب شعبة البكالوريا المغربية وحالة المترشح (حر أو متمدرس).",
+      appTaglineBac: "يمكنك زيارة مواقعنا على وسائل التواصل اللإجتماعي لمزيد من المعلومات أو اللإتصال بنا",
       language: "اللغة",
       statusLabel: "الحالة",
       calculationTypeLabel: "نوع الحساب",
@@ -34,9 +34,9 @@ export const resources = {
         everything: "الكل (وطني + جهوي + مراقبة مستمرة)",
       },
       tagSection: {
-        national: "الامتحان الوطني — أدخل النقط",
-        regional: "الامتحان الجهوي — أدخل النقط",
-        controlContinue: "المراقبة المستمرة — أدخل النقط",
+        national: "الامتحان الوطني",
+        regional: "الامتحان الجهوي",
+        controlContinue: "المراقبة المستمرة",
       },
       result: {
         perBlock: "تفاصيل حسب النوع",
@@ -97,9 +97,9 @@ export const resources = {
         everything: "Tout (national + régional + contrôle continu)",
       },
       tagSection: {
-        national: "National — saisissez les notes",
-        regional: "Régional — saisissez les notes",
-        controlContinue: "Contrôle continu — saisissez les notes",
+        national: "National",
+        regional: "Régional",
+        controlContinue: "Contrôle continu",
       },
       result: {
         perBlock: "Détail par type",

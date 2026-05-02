@@ -4,8 +4,8 @@
       "nameAr": "علوم فيزيائية",
       "nameFr": "Sciences Physiques",
       "nameEn": "Physical Sciences",
-      "libre": true,
-      "scolaire": false,
+      "libre": false,
+      "scolaire": true,
       "subjects": [
         {
           "slug": "math",
@@ -49,7 +49,7 @@
         {
           "slug": "arabic",
           "tag": "Regional",
-          "nameAr": "الغة عربية",
+          "nameAr": "اللغة العربية",
           "nameFr": "Arabe",
           "nameEn": "Arabic",
           "coefficient": 2
